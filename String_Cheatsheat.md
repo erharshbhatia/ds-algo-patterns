@@ -13,7 +13,23 @@ Java has a string pool so a string object is likely to have one or many referenc
 <br>
 **Note -> String Object is immutable but its refernce variable is'nt.**
 <br>
-# Know your String Library:
+# Basic String Operations:
 <br>
 
+1. Count Words<br>
+2. Reverse a string<br>
+3. Check Anagram<br>
+4. Split function<br>
+5. Check one String is rotation of another<br>
+6. String is a valid shuffle of two strings or not <br>
+7. Find duplicate characters in a string. <br> 
 
+# Basic String to other data type conversion and vice versa
+1. string to char array
+char array to string
+integer to string
+string to integer
+int to string
+string to int
+<br>
+# Strings vs StringBuilder vs Character Array
