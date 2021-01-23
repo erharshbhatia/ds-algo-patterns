@@ -3,7 +3,7 @@ Question | Topic/Hints | Difficulty
 Integer to Roman
 Roman to Integer
 Longest Common Prefix
-Implement strStr()
+[Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 Count and Say
 String Compression
 Detect Capital
