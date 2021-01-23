@@ -4,9 +4,8 @@ Integer to Roman||Basic
 Roman to Integer|Must Do(take previous and current pointer approach)|Medium level
 Longest Common Prefix
 [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
-Count and Say
+Count and Say|recursion string compression|Basic
 String Compression
-Detect Capital
 Split a String in Balanced Strings
 Consecutive Characters
 Maximum Number of Vowels in a Substring of Given Length
