@@ -1,7 +1,7 @@
 Question | Topic/Hints | Difficulty
 | :--- | ---: | :---:
-Integer to Roman
-Roman to Integer
+Integer to Roman||Basic
+Roman to Integer|Must Do(take previous and current pointer approach)|Medium level
 Longest Common Prefix
 [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 Count and Say
