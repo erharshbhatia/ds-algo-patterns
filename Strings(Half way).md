@@ -5,6 +5,7 @@ Roman to Integer|Must Do(take previous and current pointer approach)|Medium leve
 Longest Common Prefix
 [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 Count and Say|recursion string compression|Basic
+Valid Paranthesis|Stack|Basic
 String Compression
 Split a String in Balanced Strings
 Consecutive Characters
