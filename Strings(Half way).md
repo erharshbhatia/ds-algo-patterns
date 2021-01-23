@@ -8,7 +8,6 @@ Count and Say|recursion string compression|Basic
 Valid Paranthesis|Stack|Basic
 String Compression
 Split a String in Balanced Strings|greedy(see code once)
-Consecutive Characters
 Maximum Number of Vowels in a Substring of Given Length
 Bulb Switcher IV(Leetcode Weekly)
 Palindrome String(Sentence)|Two pointer|Basic
