@@ -32,4 +32,7 @@ string to integer
 int to string
 string to int
 <br>
-# Strings vs StringBuilder vs Character Array
+
+# Strings vs StringBuilder vs StringBuffer
+Parameters | Strings | StringBuilder | StringBuffer
+| :--- | ---: | :---: | :---: |
