@@ -36,3 +36,6 @@ string to int
 # Strings vs StringBuilder vs StringBuffer
 Parameters | Strings | StringBuilder | StringBuffer
 | :--- | ---: | :---: | :---: |
+Storage | lietrals -> String Pool and Objects-> Heap | Heap | Heap
+Thread Safe | Not used in a threaded environment | Used in single thraeded | Used in multi threaded
+Speed | Slowest | Fasted | Faster than Strings but slower than StringBuilder
