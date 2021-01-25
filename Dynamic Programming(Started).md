@@ -86,4 +86,33 @@ public int subset(int[] values, int target, int n, int dp[][]){
         }
     }
 ```
+```java
+public int solve(int[] values, int target) {
+        int dp[][]=new int[values.length+1][target+1];
+        
+        for(int i=0;i<dp.length;i++)
+        for(int j=0;j<dp[0].length;j++)
+        dp[i][j]=-1;
+        
+        //initialisation through first base case
+        //0 th column set true i.e 1
+        for(int i=0;i<dp.length;i++){
+            dp[i][0]=1;
+        }
+        //0 th row set false i.e 0 but not (0, 0)
+        for(int i=1;i<dp[0].length;i++){
+            dp[0][i]=0;
+        }
+        for(int i=1;i<dp.length;i++){
+            for(int j=1;j<dp[0].length;j++){
+                
+                if(values[i-1]<=j){
+                    dp[i][j]=Math.max(dp[i-1][j-values[i-1]], dp[i-1][j]);
+                }
+                else dp[i][j]=dp[i-1][j];
+            }    
+        }
+       return dp[values.length][target]; 
+    }
+```
 ### Variation 2: [Equal Sum Partition Problem]()
