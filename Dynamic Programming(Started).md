@@ -116,4 +116,4 @@ public int solve(int[] values, int target) {
     }
 ```
 ### Variation 2: [Equal Sum Partition Problem](https://leetcode.com/problems/partition-equal-subset-sum/)
-## Do [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
+#### Do [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
