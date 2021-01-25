@@ -49,7 +49,7 @@ public int knapsack(int[] values, int[] weights, int capacity, int n, int dp[][]
 //Recursion with memoisation vs Top Down
 ```
 ```java
-//Top Down Approach
+//Bottom Up/Tabulation
 ```
 ### Variation 1: [Subset Sum Problem](https://www.interviewbit.com/problems/subset-sum-problem/)
 ```java
