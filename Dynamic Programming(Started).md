@@ -52,4 +52,38 @@ public int knapsack(int[] values, int[] weights, int capacity, int n, int dp[][]
 //Top Down Approach
 ```
 ### Variation 1: [Subset Sum Problem](https://www.interviewbit.com/problems/subset-sum-problem/)
+```java
+//only recursion
+public int subset(int[] values, int target, int n){
+        //base case
+        if(n==0 && target>0) return 0;
+        if(target==0) return 1;
+        
+        //choice 
+        if(values[n]<=target){
+           return Math.max(subset(values, target-values[n], n-1), subset(values, target, n-1));
+        }
+        else {
+            return subset(values, target, n-1);
+        }
+    }
+```
+```java
+//recursion + memoization
+public int subset(int[] values, int target, int n, int dp[][]){
+        //base case
+        if(n==0 && target>0) return 0;
+        if(target==0) return 1;
+        if(dp[n][target]!=-1) return dp[n][target];
+        //choice 
+        if(values[n]<=target){
+            dp[n][target]=Math.max(subset(values, target-values[n], n-1, dp), subset(values, target, n-1, dp));
+            return dp[n][target];
+        }
+        else {
+            dp[n][target]=subset(values, target, n-1, dp);
+            return dp[n][target];
+        }
+    }
+```
 ### Variation 2: [Equal Sum Partition Problem]()
