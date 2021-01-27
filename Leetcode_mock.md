@@ -11,4 +11,5 @@ Intution for k=2<br>
 //found cancel out the count of the majority element
 //now when the count becomes zero that means that the current majority element is not our ans
 //therefore we update the element to curr element of array
+//but after getting the majority element always verify it but Why? test case =[2, 2, 3, 4] || [1, 2, 3, 4]
 Intution for k<br>
