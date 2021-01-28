@@ -117,3 +117,8 @@ public int solve(int[] values, int target) {
 ```
 ### Variation 2: [Equal Sum Partition Problem](https://leetcode.com/problems/partition-equal-subset-sum/)
 #### Do [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
+### Variation 3: Count of Subsets sum with a given sum
+### Variation 4: Minimum subset sum difference
+#### Do [Last Stone Weight II] (https://leetcode.com/problems/last-stone-weight-ii/)
+### Variation 5: Count the number of subset with a given differnce
+### Variation 6: Target Sum
