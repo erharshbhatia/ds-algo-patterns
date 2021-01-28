@@ -13,3 +13,6 @@ Intution for k=2<br>
 //therefore we update the element to curr element of array
 //but after getting the majority element always verify it but Why? test case =[2, 2, 3, 4] || [1, 2, 3, 4]
 Intution for k<br>
+Mock 2: Date: 28 Jan, 2020
+<br>
+Height Checker && Long Pressed String(Imp) [two pointer && string compression]
