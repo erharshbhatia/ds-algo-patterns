@@ -45,8 +45,21 @@ public class AdjacencyListGraph {
         graph.printGraph();
     }
 }
-
 ```
+#### Input <br>
+5 <br>
+6 <br>
+0 4 <br>
+0 3 <br>
+2 1 <br>
+1 4 <br>
+3 4 <br>
+#### Output 
+Vertex 0 is connected to: 4 3 <br>
+Vertex 1 is connected to: 2 4 <br>
+Vertex 2 is connected to: 3 1 <br>
+Vertex 3 is connected to: 0 2 4 <br>
+Vertex 4 is connected to: 0 1 3 <br>
 ### BFS on Graph
 ```java
 ```
