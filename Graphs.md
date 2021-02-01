@@ -60,9 +60,12 @@ Vertex 1 is connected to: 2 4 <br>
 Vertex 2 is connected to: 3 1 <br>
 Vertex 3 is connected to: 0 2 4 <br>
 Vertex 4 is connected to: 0 1 3 <br>
-### BFS on Graph
+### BFT on Graph
 ```java
 ```
-### DFS on Graph
+### DFT on Graph
 ```java
 ```
+### DFT on Graph using backtracking
+## Restore the array from adjacent pairs
+## Do graph theory from hackerearth
