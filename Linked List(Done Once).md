@@ -15,3 +15,4 @@ Sort List(LC)
 Copy List with random pointer(LC)
 Add two Numbers(LC)
 Merge k sorted Lists(LC)
+Revise from notebook
