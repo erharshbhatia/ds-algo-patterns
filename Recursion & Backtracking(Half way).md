@@ -1,5 +1,5 @@
-Question | Topic/Hints | Difficulty
-| :--- | ---: | :---:
+Question | Backtracking
+| :--- | ---: 
 N Queens
 Sudoku Solver
 Rat in a maze
