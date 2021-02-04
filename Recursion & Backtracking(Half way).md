@@ -15,3 +15,7 @@ tracking formulae
      
 Question | Recursion
 | :--- | ---: 
+Tower Of Hanoi
+Number of paths in a grid
+Flood Fill
+Josephus Problem
