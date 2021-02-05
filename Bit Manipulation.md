@@ -18,3 +18,4 @@
 ## Single Number I II & III(LC) 
 ## [Missing Number](https://leetcode.com/problems/missing-number/)
 ## [Duplicate Xor Problem](https://www.youtube.com/watch?v=u5-ss5kKy7g)
+## Longest Consecutive 1's
