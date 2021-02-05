@@ -8,6 +8,7 @@
 ## Check Odd and Even=N&1=> Last bit of odd is 1 and Last bit of even is 0
 ## Power of 2 or not
 ## Count the Set bits
+## Toggle(0-1 1-0) bits from range l-r: i from l-r mask=1<<i num^mask
 ## Swapping two numbers without temp and arithmetic=XOR
 ## Sum of two numbers without arithmetic operators
 ## Find ith Bit
