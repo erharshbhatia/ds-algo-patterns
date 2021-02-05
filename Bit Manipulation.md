@@ -16,4 +16,5 @@
 ## Find number of 1 bits to change to convert a to b
 ## Reverse bits
 ## Single Number I II & III(LC) 
+## [Missing Number](https://leetcode.com/problems/missing-number/)
 ## [Duplicate Xor Problem](https://www.youtube.com/watch?v=u5-ss5kKy7g)
