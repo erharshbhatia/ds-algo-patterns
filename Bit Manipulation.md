@@ -6,6 +6,8 @@
 ## 5) Subset Backtracking Problem do with Bits
 # Basic Questions
 ## Check Odd and Even=N&1=> Last bit of odd is 1 and Last bit of even is 0
+## Power of 2 or not
+## Count the Set bits
 ## Swapping two numbers without temp and arithmetic=XOR
 ## Sum of two numbers without arithmetic operators
 ## Find ith Bit
