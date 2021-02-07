@@ -6,3 +6,5 @@ Trim a BST | Recursion
 Linked List Cycle | Slow and Fast
 Longest Harmonious Subsequence | HashMap
 Simplify Path | Strings
+Right View of a Binary tree
+Shortest Distance of a character
