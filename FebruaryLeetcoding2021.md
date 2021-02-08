@@ -8,3 +8,5 @@ Longest Harmonious Subsequence | HashMap
 Simplify Path | Strings
 Right View of a Binary tree | Level order
 Shortest Distance of a character | Important
+Number of Distinct Islands
+Peeking Iterator| Design
