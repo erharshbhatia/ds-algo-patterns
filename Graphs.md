@@ -67,5 +67,16 @@ Vertex 4 is connected to: 0 1 3 <br>
 ```java
 ```
 ### DFT on Graph using backtracking
-## Restore the array from adjacent pairs
+
 ## Do graph theory from hackerearth
+
+
+## BFS To do
+Question | Topic/Hints | Difficulty
+| :--- | ---: | :---:
+Given source and destination in a grid with obstacles find shortest path (Dungeon game)
+Shortest Path in a Binary Matrix (Leetcode)
+No. of islands
+No. of distinct islands
+Is Graph Bipartite
+Restore the array from adjacent pairs
