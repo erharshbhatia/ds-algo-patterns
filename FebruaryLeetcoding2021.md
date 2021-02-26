@@ -15,3 +15,17 @@ Copy List with Random Pointer | Important
 Valid Anagram
 Number of steps to reduce a number to zero
 Shortest Path in a binary Matrix | BFS important
+Is Graph Bipartite?
+Kill Process
+The K weakest rows in a matrix
+Letter Case Permuation
+Container with most water
+Arithmetic Slices
+Minimum Remove to make valid Parenthesis
+Roman to Integer
+Broken Calculator
+Find the Celebrity
+Longest Word in Dictionary through Deleting
+Searching a 2d matrix II
+Score of Parantheses
+Shortest Unsorted Continuos Subarray
