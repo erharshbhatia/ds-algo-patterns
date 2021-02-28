@@ -9,7 +9,7 @@
 ### Power of 2 or not
 ### Count the Set bits
 ### Toggle(0-1 1-0) bits from range l-r: i from l-r mask=1<<i num^mask
-### Swapping two numbers without temp and arithmetic=XOR
+### Swapping two numbers without any variable and arithmetics =XOR
 ### Sum of two numbers without arithmetic operators
 ### Find ith Bit
 ### Set ith Bit
@@ -20,3 +20,4 @@
 ### [Missing Number](https://leetcode.com/problems/missing-number/)
 ### [Duplicate Xor Problem](https://www.youtube.com/watch?v=u5-ss5kKy7g)
 ### Longest Consecutive 1's
+### Divide two numbers
